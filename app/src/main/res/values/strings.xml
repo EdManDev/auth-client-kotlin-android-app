@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auth Client Kotlin Android App</string>
+    <string name="task_description">Kotlin Android app for authentication client functionality</string>
+</resources>
